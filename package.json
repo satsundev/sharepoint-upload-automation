@@ -1,0 +1,15 @@
+{
+  "name": "sharepointautomation",
+  "version": "1.0.0",
+  "description": "This project helps to upload to sharepoint using gulp-spsave",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-spsave": "^4.0.0"
+  }
+}
